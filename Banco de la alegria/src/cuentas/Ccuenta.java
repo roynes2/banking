@@ -40,6 +40,7 @@ public abstract class Ccuenta {
 		if (cue.length() == 0)
 		{
 			System.out.println("Error: cuenta no valida");
+			System.out.println("hola GitHub");
 			return false;
 		}
 		cuenta = cue;
